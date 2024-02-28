@@ -1,1 +1,1 @@
-TO_EMAIL=bartoszwoznica1913@gmail.com
+TO_EMAIL=your_email
