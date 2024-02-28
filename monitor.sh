@@ -1,5 +1,4 @@
 #!/bin/bash
-#Bartosz Woźnica 311860
 #Projekt skryptu "Informacja o zmianie parametrów komputera"
 
 #funkcja wypisująca parametry
